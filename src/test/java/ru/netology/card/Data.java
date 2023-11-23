@@ -11,7 +11,7 @@ import java.util.Locale;
 import java.util.Random;
 
 public class Data {
-    private void Data() {
+    private Data() {
     }
 
     public static String generateData(int shift) {
